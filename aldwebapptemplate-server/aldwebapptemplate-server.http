@@ -1,0 +1,6 @@
+@aldwebapptemplate_server_HostAddress = http://localhost:5025
+
+GET {{aldwebapptemplate_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
